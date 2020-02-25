@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: eda0513487fadcd4fa7fe3d169262d78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5278855615223407210
+    second: Week3_SpriteSheet_Chris.Hickman_0
+  - first:
+      213: -5331855220792615536
+    second: Week3_SpriteSheet_Chris.Hickman_1
+  - first:
+      213: -5432517048870182436
+    second: Week3_SpriteSheet_Chris.Hickman_2
+  - first:
+      213: 5049532103351392836
+    second: Week3_SpriteSheet_Chris.Hickman_3
+  - first:
+      213: 1151451408210542234
+    second: Week3_SpriteSheet_Chris.Hickman_4
+  - first:
+      213: 4897839721114385041
+    second: Week3_SpriteSheet_Chris.Hickman_5
+  - first:
+      213: 6356145055331334049
+    second: Week3_SpriteSheet_Chris.Hickman_6
+  - first:
+      213: 4202413150003772402
+    second: Week3_SpriteSheet_Chris.Hickman_7
+  - first:
+      213: 3650237531478761109
+    second: Week3_SpriteSheet_Chris.Hickman_8
+  - first:
+      213: 4883437950119610289
+    second: Week3_SpriteSheet_Chris.Hickman_9
+  - first:
+      213: -3089573516332384254
+    second: Week3_SpriteSheet_Chris.Hickman_10
+  - first:
+      213: -7470103453653402148
+    second: Week3_SpriteSheet_Chris.Hickman_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95926254f3a8cf24796453dd86aa9f09
+      internalID: 5278855615223407210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf39c413ec0564d9619fb5fe21fe21
+      internalID: -5331855220792615536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724c673bccdab341a01334dc91df864
+      internalID: -5432517048870182436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7f1d7e1adf3a547b2a060a02cd5083
+      internalID: 5049532103351392836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45e097609101745afa39503f9819a3
+      internalID: 1151451408210542234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 126
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988cce95db6e6744a8b0db56fad825bd
+      internalID: 4897839721114385041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c5edf4ed2c20941a7e05efb5ab870d
+      internalID: 6356145055331334049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcb449ecf29824a84735627dedcf47
+      internalID: 4202413150003772402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e8624754fe4dc4abc333cf81899315
+      internalID: 3650237531478761109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b097084787cd34d877f7d8f48e5c18
+      internalID: 4883437950119610289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aab885905a1354cba69e593ee44a70
+      internalID: -3089573516332384254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Week3_SpriteSheet_Chris.Hickman_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209adb8a9e1471446972863a3747aebc
+      internalID: -7470103453653402148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
